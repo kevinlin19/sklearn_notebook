@@ -6,7 +6,7 @@ description: 透過scikit-learn學習每種machine learning的方法及其優缺
 
 ### Reference
 
-{% embed url="https://scikit-learn.org/stable/" %}
+https://scikit-learn.org/stable/
 
 
 
